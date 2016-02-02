@@ -2,12 +2,11 @@
 /* BODY */
      body {
          font-family: Helvetica, Arial, sans-serif;
-         color: white;
+         color: #CDAF95;
             }
      body  {
-          background-image: url(images4.jpg);
-          background-repeat: no-repeat;
-          background-size:cover;
+          background-color: #CDAF95;
+          
             }
      
 
